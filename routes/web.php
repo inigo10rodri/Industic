@@ -14,3 +14,13 @@
 Route::get('/', function () {
     return view('index');
 });
+
+Route::get('/loginForm', function () {
+    return view('loginForm');
+});
+Route::post('/loginForm', function () {
+    return view('index');
+});
+
+
+
