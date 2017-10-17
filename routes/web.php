@@ -18,9 +18,17 @@ Route::get('/', function () {
 Route::get('/loginForm', function () {
     return view('loginForm');
 });
-Route::post('/loginForm', function () {
+Route::get('/index', function () {
     return view('index');
 });
+Route::get('/contactForm', function () {
+    return view('contactForm');
+});
+Route::get('/presupuestoForm', function () {
+    return view('presupuestoForm');
+});
+
+Route::post('usuarioAnadido','UsuarioController@anadirUsuario');
 
 
 
