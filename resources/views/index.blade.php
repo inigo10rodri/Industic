@@ -2,9 +2,9 @@
 
 @section('content')
 
-    <header class="masthead "  style="background-image: url('imagenes/industrial.jpg');margin-top: 0px; width: 1285px;height: 169px">
+    <header class="masthead"  style="background-image: url('imagenes/industrial.jpg');margin-top: 0px; width: 1285px;height: 169px">
         <div class="header-content" >
-            <div class="header-content-inner">
+            <div class="header-content-inner ">
                 <h1 align="center" style="color: whitesmoke">ZubIndustic</h1>
                 <hr>
                 <div class="form-group" align="center">
@@ -15,7 +15,7 @@
             </div>
         </div>
     </header>
-    <section class="bg-primary">
+    <section style="background-color: dodgerblue">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 mx-auto text-center">
@@ -27,7 +27,7 @@
             </div>
         </div>
     </section>
-    <section  style="background-color: orange">
+    <section  style="background-color: darkorange">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 mx-auto text-center">

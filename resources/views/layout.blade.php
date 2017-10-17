@@ -36,6 +36,7 @@
         @yield('formularioLogin')
         @yield('formularioContacto')
         @yield('formularioPresupuesto')
+        @yield('userAdded')
     </section>
 
 
