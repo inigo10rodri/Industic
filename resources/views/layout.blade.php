@@ -46,7 +46,7 @@
                 <div class= "col-lg-12 col-md-12 mx-auto" >
                     <ul class="list-inline text-center">
                         <li class="list-inline-item">
-                            <a href="https://github.com/inigo10rodri/ZubIndustic">
+                            <a href="https://github.com/inigo10rodri/Industic">
                                 <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fa fa-github fa-stack-1x fa-inverse"></i>
